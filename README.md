@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python Development, Machine Learning, WebApps Deploy.
 - 🌱 I’m currently learning HTML, and SQL.
 - 💞️ I’m looking to connect several knowledge into one big and beautiful machine.
-- 📫 How to reach me on LinkedIn
+- 📫 Reach me on LinkedIn
 
 <!---
 AgustinSt1990/AgustinSt1990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
